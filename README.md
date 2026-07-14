@@ -1,0 +1,1 @@
+Uma landing page para um curso de treinamento com armas.

@@ -1,0 +1,6 @@
+{
+  "name": "Valquíria - Treinamento Tático Feminino",
+  "description": "Centro de treinamento de elite em autodefesa e tiro esportivo responsável para mulheres. Transmitindo confiança, autoridade, disciplina e empoderamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
