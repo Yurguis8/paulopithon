@@ -57,7 +57,7 @@ export const FAQS = [
       'Não. Toda a infraestrutura, armas de alta qualidade, munições adequadas, óculos e abafadores estão inclusos na taxa do curso. Fornecemos todo o equipamento homologado em clube de tiro credenciado.',
   },
   {
-    id: 'faq-3',
+    id: 'faq-3 ',
     question: 'Quais os requisitos legais para fazer o treinamento com arma?',
     answer:
       'Para os treinamentos de armamento real, as participantes devem ser maiores de 18 anos, não possuir antecedentes criminais e estar em perfeitas faculdades físicas e mentais.',
